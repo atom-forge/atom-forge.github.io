@@ -28,8 +28,6 @@ jobs:
       - run: bun install
       - run: bun run check
       - run: bun run build
-        env:
-          BASE_PATH: /${{ github.event.repository.name }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build
