@@ -9,7 +9,6 @@ books:
   - "main@github.com/atom-forge/rpc/book/book.md"
   - "main@github.com/atom-forge/svelte-helpers/book/book.md"
   - "main@github.com/atom-forge/ship/book/book.md"
-  - "main@github.com/atom-forge/prmd/book/book.md"
 ---
 # AtomForge
 
