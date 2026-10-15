@@ -6,7 +6,6 @@ books:
   - "main@github.com/atom-forge/env-reader/book/book.md"
   - "main@github.com/atom-forge/laminar/book/book.md"
   - "main@github.com/atom-forge/rpc/book/book.md"
-  - "main@github.com/atom-forge/ai-notes/book/book.md"
 ---
 # AtomForge
 
