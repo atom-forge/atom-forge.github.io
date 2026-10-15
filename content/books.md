@@ -8,7 +8,6 @@ books:
   - "main@github.com/atom-forge/laminar/book/book.md"
   - "main@github.com/atom-forge/rpc/book/book.md"
   - "main@github.com/atom-forge/svelte-helpers/book/book.md"
-  - "main@github.com/atom-forge/ship/book/book.md"
 ---
 # AtomForge
 
