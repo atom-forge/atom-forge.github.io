@@ -10,6 +10,8 @@ books:
     slug: date-format
   - source: "main@github.com/atom-forge/env-reader/book/book.md"
     slug: env-reader
+  - source: "main@github.com/atom-forge/expose/book/book.md"
+    slug: expose
   - source: "main@github.com/atom-forge/laminar/book/book.md"
     slug: laminar
   - source: "main@github.com/atom-forge/rpc/book/book.md"
