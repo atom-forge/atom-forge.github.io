@@ -6,6 +6,8 @@ books:
     slug: ui
   - source: "main@github.com/atom-forge/attachment/book/book.md"
     slug: attachment
+  - source: "main@github.com/atom-forge/brickee/book/book.md"
+    slug: brickee
   - source: "main@github.com/atom-forge/date-format/book/book.md"
     slug: date-format
   - source: "main@github.com/atom-forge/env-reader/book/book.md"
